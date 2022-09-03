@@ -1,0 +1,11 @@
+{
+  "package": "com.carpmacro.mixin",
+  "refmap": "mixins.carpmacro.refmap.json",
+  "minVersion": "0.7",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "AccessorGuiEditSign"
+  ]
+}
