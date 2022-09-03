@@ -2,6 +2,8 @@
 
 This is a pretty basic carpentry macro but it works well enough! (a little bit hard-coded but is alright)
 
+```PLEASE NOTE!:``` There may be some bugs, so dm me on discord (JimmyWasHere#6594) and let me know!
+
 # Tutorial on how to use
 
 ```Step 1:``` Create a buy order for x amount of enchanted diamonds (preferrably 71,680 for maximal efficiency)
