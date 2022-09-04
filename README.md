@@ -6,7 +6,7 @@ This is a pretty basic carpentry macro but it works well enough! (a little bit h
 
 # Tutorial on how to use
 
-`*make sure you have a **COMPLETELY CLEAR** inventory prior to starting the macro* `
+*make sure you have a **COMPLETELY CLEAR** inventory prior to starting the macro* 
 
 ```Step 1:``` Set the keybind to start the macro in game settings (the keybind is 'F' by default)
 
